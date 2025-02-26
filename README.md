@@ -32,7 +32,7 @@ All of them were made for a better preprosessing and training understanding
 
 This repository employs a variety of licenses:
 
-- **Code:** All modules and implementations are released under the **Apache License 2.0**. You are free to use, modify, and distribute the source code as long as proper credit is given.
+- **Code:** All modules and implementations are released under the **Apache License 2.0**. You are free to use, modify, and distribute the source code 
   
 - **Models & Data:** Some datasets and pretrained models may have their own licensing terms. Please check the respective authors for detailed license information.  
 
